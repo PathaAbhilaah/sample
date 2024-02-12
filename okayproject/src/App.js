@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     This is the main branch
+     This is the main branch and the updated code of newTask branch
     </div>
   );
 }
